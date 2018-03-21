@@ -1,0 +1,20 @@
+{
+  "name": "inpairs",
+  "version": "1.0.0",
+  "description": "iterate a list of elements in pairs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "in pairs",
+    "pairwise",
+    "pairs",
+    "iteration"
+  ],
+  "author": "Manuel Ernst <seriousstuff@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
