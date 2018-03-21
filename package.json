@@ -1,6 +1,6 @@
 {
   "name": "inpairs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "iterate a list of elements in pairs",
   "main": "index.js",
   "scripts": {
