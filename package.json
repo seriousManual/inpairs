@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seriousManual/inpairs.git"
+  },
   "keywords": [
     "in pairs",
     "pairwise",
