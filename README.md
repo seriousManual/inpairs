@@ -1,4 +1,4 @@
-# inpairs
+# inpairs [![Build Status](https://travis-ci.org/seriousManual/inpairs.svg)](https://travis-ci.org/seriousManual/inpairs)
 
 Iterates a given list in pairs of two.
 
